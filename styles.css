@@ -1,0 +1,30 @@
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: green;
+}
+
+h1 {
+    text-align: center;
+}
+
+form {
+    text-align: center;
+}
+
+section {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+#remove {
+    background-color: red;
+}
+
+img {
+    padding: 20px;;
+}
